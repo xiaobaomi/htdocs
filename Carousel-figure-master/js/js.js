@@ -1,6 +1,6 @@
 (function() {
 	
-	//轮播图的显示框
+	//轮播图的显示框 今天是11月前的一天
 	var container = document.getElementById("container"),
 	
 		//所有的图片区域
